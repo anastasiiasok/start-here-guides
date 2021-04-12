@@ -1,3 +1,3 @@
 # CONTRIBUTORS
 
-- [@codemyjourney](https://github.com/codemyjourney)
+- [@anastasiiasok](https://github.com/anastasiiasok)
